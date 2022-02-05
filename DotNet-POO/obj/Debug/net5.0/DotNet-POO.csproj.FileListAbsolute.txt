@@ -1,0 +1,16 @@
+D:\Desktop\Projetos\Projeto Site\Dio-Desafios\DotNet-POO\bin\Debug\net5.0\DotNet-POO.exe
+D:\Desktop\Projetos\Projeto Site\Dio-Desafios\DotNet-POO\bin\Debug\net5.0\DotNet-POO.deps.json
+D:\Desktop\Projetos\Projeto Site\Dio-Desafios\DotNet-POO\bin\Debug\net5.0\DotNet-POO.runtimeconfig.json
+D:\Desktop\Projetos\Projeto Site\Dio-Desafios\DotNet-POO\bin\Debug\net5.0\DotNet-POO.runtimeconfig.dev.json
+D:\Desktop\Projetos\Projeto Site\Dio-Desafios\DotNet-POO\bin\Debug\net5.0\DotNet-POO.dll
+D:\Desktop\Projetos\Projeto Site\Dio-Desafios\DotNet-POO\bin\Debug\net5.0\ref\DotNet-POO.dll
+D:\Desktop\Projetos\Projeto Site\Dio-Desafios\DotNet-POO\bin\Debug\net5.0\DotNet-POO.pdb
+D:\Desktop\Projetos\Projeto Site\Dio-Desafios\DotNet-POO\obj\Debug\net5.0\DotNet-POO.csproj.AssemblyReference.cache
+D:\Desktop\Projetos\Projeto Site\Dio-Desafios\DotNet-POO\obj\Debug\net5.0\DotNet-POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Projetos\Projeto Site\Dio-Desafios\DotNet-POO\obj\Debug\net5.0\DotNet-POO.AssemblyInfoInputs.cache
+D:\Desktop\Projetos\Projeto Site\Dio-Desafios\DotNet-POO\obj\Debug\net5.0\DotNet-POO.AssemblyInfo.cs
+D:\Desktop\Projetos\Projeto Site\Dio-Desafios\DotNet-POO\obj\Debug\net5.0\DotNet-POO.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos\Projeto Site\Dio-Desafios\DotNet-POO\obj\Debug\net5.0\DotNet-POO.dll
+D:\Desktop\Projetos\Projeto Site\Dio-Desafios\DotNet-POO\obj\Debug\net5.0\ref\DotNet-POO.dll
+D:\Desktop\Projetos\Projeto Site\Dio-Desafios\DotNet-POO\obj\Debug\net5.0\DotNet-POO.pdb
+D:\Desktop\Projetos\Projeto Site\Dio-Desafios\DotNet-POO\obj\Debug\net5.0\DotNet-POO.genruntimeconfig.cache
